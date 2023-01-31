@@ -1,6 +1,7 @@
 # DataBlitz
-Test Set Accuracy : 64.9 % /n
-Training Set Accuracy : 67.4 % /n
+Test Set Accuracy : 64.9 %
 
-Using Linear regression model as the values are continous. 
+Training Set Accuracy : 67.4 % 
+
+Using Linear regression model prediction value is continous. 
 
